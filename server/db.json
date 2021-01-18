@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is Post one",
+      "published": "18-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post two",
+      "body": "This is Post two",
+      "published": "18-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post three",
+      "body": "This is Post three",
+      "published": "18-01-2020"
+    },
+    {
+      "title": "Post Five",
+      "body": "This is Post five",
+      "published": "2021-01-14",
+      "id": "E1NxIYU"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Thiluxan",
+      "email": "luxanmani@gmail.com"
+    }
+  ]
+}
